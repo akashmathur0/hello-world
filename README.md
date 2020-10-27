@@ -1,4 +1,4 @@
 # hello-world
 
-## introduction
+## Introduction
 catching up on things i should already know
